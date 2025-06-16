@@ -15,11 +15,6 @@ An intelligent, scalable, and personalized movie recommendation system developed
 - [🏗️ Architecture Overview](#-architecture-overview)
 - [🔎 Data Insights](#-data-insights)
 - [🧠 Model & Evaluation](#-model--evaluation)
-- [🚀 How to Use](#-how-to-use)
-- [📈 Business & User Impact](#-business--user-impact)
-- [📚 References](#-references)
-- [👥 Contributors](#-contributors)
-
 ---
 
 ## ✨ Features
